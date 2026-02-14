@@ -1,0 +1,7 @@
+node_modules
+.env
+leveldb
+npm-debug.log
+yarn-error.log
+.DS_Store
+*.log

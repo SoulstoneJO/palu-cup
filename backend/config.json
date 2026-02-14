@@ -1,0 +1,303 @@
+{
+    "members": [
+        {
+            "account": "admin",
+            "password": "admin",
+            "role": "admin"
+        },
+        {
+            "account": "user",
+            "password": "user",
+            "role": "viewer"
+        }
+    ],
+    "playerPool": [
+        {
+            "name": "奥特馒",
+            "mmr": 1600,
+            "type": "C",
+            "main": "1",
+            "subs": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "小番薯",
+            "mmr": 839,
+            "type": "C",
+            "main": "1",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "孙哥",
+            "mmr": 2000,
+            "type": "C",
+            "main": "4",
+            "subs": [
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "黄哥",
+            "mmr": 870,
+            "type": "C",
+            "main": "2",
+            "subs": [
+                "1",
+                "3",
+                "4",
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "果小果",
+            "mmr": 2000,
+            "type": "P",
+            "main": "3",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "艾琳",
+            "mmr": 1000,
+            "type": "P",
+            "main": "1",
+            "subs": [
+                "2"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "赤小兔",
+            "mmr": 2000,
+            "type": "P",
+            "main": "3",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "蛋糕",
+            "mmr": 600,
+            "type": "P",
+            "main": "1",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "哎呀朝朝",
+            "mmr": 600,
+            "type": "P",
+            "main": "1",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "目黑川",
+            "mmr": 500,
+            "type": "P",
+            "main": "1",
+            "subs": [
+                "4"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "一只蘇",
+            "mmr": null,
+            "type": "P",
+            "main": "3",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "小琳达",
+            "mmr": null,
+            "type": "P",
+            "main": "4",
+            "subs": [
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "牙牙",
+            "mmr": 1500,
+            "type": "P",
+            "main": "1",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "甜瓜",
+            "mmr": 1600,
+            "type": "P",
+            "main": "3",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "煊宝",
+            "mmr": 580,
+            "type": "P",
+            "main": "1",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "金贝贝",
+            "mmr": 200,
+            "type": "P",
+            "main": "1",
+            "subs": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "紫灵",
+            "mmr": 1800,
+            "type": "P",
+            "main": "2",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "momoko",
+            "mmr": 1000,
+            "type": "P",
+            "main": "3",
+            "subs": [],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "一只猛龙",
+            "mmr": null,
+            "type": "P",
+            "main": "4",
+            "subs": [
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        },
+        {
+            "name": "黑心喵",
+            "mmr": 1500,
+            "type": "P",
+            "main": "4",
+            "subs": [
+                "5"
+            ],
+            "titles": 0,
+            "wins": 0,
+            "winRate": "0%",
+            "mvps": 0,
+            "kd": 0,
+            "region": "CN"
+        }
+    ]
+}
