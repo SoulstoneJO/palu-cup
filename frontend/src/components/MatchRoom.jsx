@@ -18,7 +18,12 @@ export default function MatchRoom({ config }) {
     let timeoutId;
 
     const connect = () => {
-      ws = new WebSocket(`ws://${window.location.hostname}:3000`);
+      // 优先使用环境变量，生产环境默认为当前域名的 /ws 路径 (适配 Caddy)
+      const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+      const defaultWsUrl = `${protocol}//${window.location.host}/ws`;
+      const wsUrl = import.meta.env.VITE_WS_URL || defaultWsUrl;
+
+      ws = new WebSocket(wsUrl);
       ws.onmessage = (event) => {
         try {
           if (JSON.parse(event.data).id === matchId) setRefreshTrigger(p => p + 1);

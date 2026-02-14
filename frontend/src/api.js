@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000"; // 同域部署留空
+const BASE_URL = import.meta.env.VITE_API_URL || ""; // 优先使用环境变量，生产环境留空走相对路径
 
 async function request(url, options = {}) {
     const token = localStorage.getItem("token");
